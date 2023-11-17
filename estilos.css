@@ -1,0 +1,23 @@
+.navbar, a , .navb{
+    color: white;
+    text-decoration: none;
+    margin-left: auto;
+    text-align: right;
+    margin-bottom:150px ;
+    padding: 0%;
+}
+.fondo{
+    background-color: #007f8e;
+}
+.navbar a:hover,
+.navbar a.active{
+    color: #00abf0;
+}
+
+.presentacion{
+    color: white;
+}
+.navbar.active{
+    text-align: left;
+    margin-right: auto;
+}
